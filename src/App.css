@@ -36,3 +36,89 @@
     transform: rotate(360deg);
   }
 }
+.filter-search {
+  margin: 20px 0;
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.filter-search input {
+  padding: 5px;
+  width: 60%;
+}
+
+.filter-search select {
+  padding: 5px;
+}
+.admin-dashboard {
+  padding: 20px;
+}
+
+.admin-dashboard .task-list {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.admin-dashboard button {
+  margin-right: 10px;
+}
+/* src/App.css */
+.task-chart {
+  margin: 20px 0;
+}
+
+.task-chart h3 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.admin-dashboard {
+  padding: 20px;
+}
+
+.admin-dashboard .task-list {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+/* src/App.css */
+.task-chart {
+  margin: 20px 0;
+}
+
+.task-chart h3 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.admin-dashboard {
+  padding: 20px;
+}
+
+.admin-dashboard .task-list {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+/* src/App.css */
+.task-chart {
+  margin: 20px 0;
+}
+
+.task-chart h3 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.admin-dashboard {
+  padding: 20px;
+}
+
+.admin-dashboard .task-list {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
